@@ -20,6 +20,8 @@ process.on('uncaughtException', function (err) {
 
 app.set('name', meta.name);
 app.set('version', meta.version);
+app.engine('.tpl', require('ejs').__express);
+app.set('view engine', 'tpl');
 app.set('port', process.env.PORT || 5000);
 app.set('root', path.resolve(__dirname, '../').replace(/\/+$/, ''));
 app.set('logger', console);

@@ -1,0 +1,1 @@
+<table id="rank" class="ui basic table"</table>
