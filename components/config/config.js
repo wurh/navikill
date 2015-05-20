@@ -32,6 +32,16 @@ module.exports = {
             head:'13'
         },
         {
+            name:'wenlong',
+            points:'99',
+            head:'13'
+        },
+        {
+            name:'wurh',
+            points:'101',
+            head:'13'
+        },
+        {
             name:'dad',
             points:'22',
             head:'6'
