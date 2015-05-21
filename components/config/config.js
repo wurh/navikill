@@ -7,44 +7,189 @@ module.exports = {
     ],
     users:[
         {
-            name:'tom',
-            points:'35',
-            head:'65'
+            name:'郑炜飚',
+            points:'0',
+            head:'0'
         },
         {
-            name:'jenny',
-            points:'33',
-            head:'10'
+            name:'关智梁',
+            points:'0',
+            head:'0'
         },
         {
-            name:'jimmy',
-            points:'30',
-            head:'10'
+            name:'陈韩杰',
+            points:'0',
+            head:'0'
         },
         {
-            name:'jack',
-            points:'30',
-            head:'11'
+            name:'苏晓',
+            points:'0',
+            head:'0'
         },
         {
-            name:'conney',
-            points:'25',
-            head:'13'
+            name:'储杰',
+            points:'0',
+            head:'0'
         },
         {
-            name:'wenlong',
-            points:'99',
-            head:'13'
+            name:'杨硕',
+            points:'0',
+            head:'0'
         },
         {
-            name:'wurh',
-            points:'101',
-            head:'13'
+            name:'李炳津',
+            points:'0',
+            head:'0'
         },
         {
-            name:'dad',
-            points:'22',
-            head:'6'
+            name:'郭嘉林',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'何妮',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'谢玄亮',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'don',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'吴诗伟',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'罗芬',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'姜淦',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'张冬萌',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'陈育文',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'周波',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'林子杰',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'胡慧贤',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'施中柱',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'李景超',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'吴岳',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'吴荣恩',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'陈旭龙',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'子文',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'陈南蓓',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'何炜华',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'李梦宜',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'谢瑛',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'周慧能',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'吴荣华',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'买买提',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'曾帆',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'李宇钧',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'钱汝锋',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'刘永健',
+            points:'0',
+            head:'0'
+        },
+        {
+            name:'陈欣欣',
+            points:'0',
+            head:'0'
         }
     ]
 }

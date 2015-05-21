@@ -1,3 +1,31 @@
 h1 {
   color: black;
 }
+
+thead{
+    color: #000000;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+tbody{
+    color: #000000;
+    font-size: 12px;
+}
+
+tbody > tr:first-child{
+    color: darkred;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+tbody > tr:nth-child(2){
+     color: indianred;
+     font-size: 14px;
+     font-weight: bolder;
+ }
+tbody > tr:nth-child(3){
+    color: palevioletred;
+    font-size: 14px;
+    font-weight: bolder;
+}
