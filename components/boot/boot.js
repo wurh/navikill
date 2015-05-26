@@ -24,7 +24,7 @@ function rankPerson(arr){
         if(parseInt(x.points) > parseInt(y.points)){
             return -1;
         }else if(parseInt(x.points) == parseInt(y.points)){
-            if(parseInt(x.head) == parseInt(y.head)){
+            if(parseInt(x.head) > parseInt(y.head)){
                return -1;
             }else{
                 return 1;
