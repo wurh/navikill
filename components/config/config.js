@@ -164,7 +164,7 @@ module.exports = {
         {
             name:'买买提',
             points:'5',
-            head:'0'
+            head:'1'
         },
         {
             name:'曾帆',
