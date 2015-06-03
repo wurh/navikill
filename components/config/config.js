@@ -23,22 +23,22 @@ module.exports = {
         },
         {
             name:'苏晓',
-            points:'2',
+            points:'4',
             head:'1'
         },
         {
             name:'储杰',
-            points:'4',
-            head:'1'
+            points:'8',
+            head:'3'
         },
         {
             name:'杨硕',
-            points:'0',
+            points:'6',
             head:'0'
         },
         {
             name:'李炳津',
-            points:'4',
+            points:'8',
             head:'0'
         },
         {
@@ -78,18 +78,18 @@ module.exports = {
         },
         {
             name:'张冬萌',
-            points:'4',
-            head:'0'
+            points:'6',
+            head:'1'
         },
         {
             name:'陈育文',
-            points:'4',
-            head:'0'
+            points:'8',
+            head:'1'
         },
         {
             name:'周波',
-            points:'4',
-            head:'0'
+            points:'6',
+            head:'1'
         },
         {
             name:'林子杰',
@@ -118,7 +118,7 @@ module.exports = {
         },
         {
             name:'吴荣恩',
-            points:'2',
+            points:'8',
             head:'0'
         },
         {
@@ -128,8 +128,8 @@ module.exports = {
         },
         {
             name:'子文',
-            points:'6',
-            head:'1'
+            points:'10',
+            head:'2'
         },
         {
             name:'陈南蓓',
@@ -158,22 +158,22 @@ module.exports = {
         },
         {
             name:'吴荣华',
-            points:'5',
-            head:'0'
+            points:'13',
+            head:'7'
         },
         {
             name:'买买提',
-            points:'5',
-            head:'1'
+            points:'9',
+            head:'3'
         },
         {
             name:'曾帆',
-            points:'5',
-            head:'0'
+            points:'9',
+            head:'1'
         },
         {
             name:'李宇钧',
-            points:'4',
+            points:'6',
             head:'1'
         },
         {
@@ -188,8 +188,8 @@ module.exports = {
         },
         {
             name:'刘洋',
-            points:'4',
-            head:'0'
+            points:'7',
+            head:'1'
         },
         {
             name:'谢维邦',
@@ -198,12 +198,12 @@ module.exports = {
         },
         {
             name:'易晓键',
-            points:'5',
-            head:'2'
+            points:'11',
+            head:'4'
         },
         {
             name:'陈欣欣',
-            points:'6',
+            points:'8',
             head:'0'
         }
     ]
