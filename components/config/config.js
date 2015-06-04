@@ -18,8 +18,8 @@ module.exports = {
         },
         {
             name:'陈韩杰',
-            points:'4',
-            head:'0'
+            points:'6',
+            head:'2'
         },
         {
             name:'苏晓',
@@ -53,13 +53,13 @@ module.exports = {
         },
         {
             name:'谢玄亮',
-            points:'4',
-            head:'0'
+            points:'8',
+            head:'2'
         },
         {
-            name:'don',
-            points:'4',
-            head:'1'
+            name:'Don',
+            points:'11',
+            head:'4'
         },
         {
             name:'吴诗伟',
@@ -68,7 +68,7 @@ module.exports = {
         },
         {
             name:'罗芬',
-            points:'4',
+            points:'8',
             head:'0'
         },
         {
@@ -98,8 +98,8 @@ module.exports = {
         },
         {
             name:'胡慧贤',
-            points:'4',
-            head:'0'
+            points:'8',
+            head:'1'
         },
         {
             name:'施中柱',
@@ -133,7 +133,7 @@ module.exports = {
         },
         {
             name:'陈南蓓',
-            points:'4',
+            points:'9',
             head:'1'
         },
         {
@@ -178,12 +178,12 @@ module.exports = {
         },
         {
             name:'钱汝锋',
-            points:'4',
+            points:'6',
             head:'0'
         },
         {
             name:'刘永健',
-            points:'4',
+            points:'9',
             head:'1'
         },
         {
