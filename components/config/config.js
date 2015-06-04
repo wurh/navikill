@@ -187,7 +187,7 @@ module.exports = {
             head:'1'
         },
         {
-            name:'刘洋（已结）',
+            name:'刘洋（3周）',
             points:'12',
             head:'4'
         },
