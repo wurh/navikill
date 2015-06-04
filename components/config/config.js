@@ -8,13 +8,13 @@ module.exports = {
     users:[
         {
             name:'郑炜飚',
-            points:'5',
+            points:'9',
             head:'2'
         },
         {
             name:'关智梁',
-            points:'6',
-            head:'0'
+            points:'12',
+            head:'3'
         },
         {
             name:'陈韩杰',
@@ -43,12 +43,12 @@ module.exports = {
         },
         {
             name:'郭嘉林',
-            points:'5',
-            head:'1'
+            points:'7',
+            head:'2'
         },
         {
             name:'何妮',
-            points:'2',
+            points:'6',
             head:'0'
         },
         {
@@ -63,7 +63,7 @@ module.exports = {
         },
         {
             name:'吴诗伟',
-            points:'2',
+            points:'6',
             head:'0'
         },
         {
@@ -93,7 +93,7 @@ module.exports = {
         },
         {
             name:'林子杰',
-            points:'4',
+            points:'8',
             head:'0'
         },
         {
@@ -103,18 +103,18 @@ module.exports = {
         },
         {
             name:'施中柱',
-            points:'4',
-            head:'0'
+            points:'11',
+            head:'2'
         },
         {
             name:'李景超',
-            points:'7',
-            head:'5'
+            points:'12',
+            head:'6'
         },
         {
             name:'吴岳',
-            points:'4',
-            head:'2'
+            points:'8',
+            head:'3'
         },
         {
             name:'吴荣恩',
@@ -123,7 +123,7 @@ module.exports = {
         },
         {
             name:'陈旭龙',
-            points:'2',
+            points:'4',
             head:'0'
         },
         {
@@ -138,22 +138,22 @@ module.exports = {
         },
         {
             name:'何炜华',
-            points:'6',
-            head:'0'
+            points:'9',
+            head:'3'
         },
         {
             name:'李梦宜',
-            points:'7',
-            head:'1'
+            points:'14',
+            head:'4'
         },
         {
             name:'谢瑛',
-            points:'4',
+            points:'10',
             head:'3'
         },
         {
             name:'周慧能',
-            points:'4',
+            points:'6',
             head:'1'
         },
         {
@@ -187,14 +187,14 @@ module.exports = {
             head:'1'
         },
         {
-            name:'刘洋',
-            points:'7',
-            head:'1'
+            name:'刘洋（已结）',
+            points:'12',
+            head:'4'
         },
         {
             name:'谢维邦',
-            points:'5',
-            head:'4'
+            points:'7',
+            head:'6'
         },
         {
             name:'易晓键',
