@@ -8,7 +8,7 @@ module.exports = {
     users:[
         {
             name:'李景超',
-            points:'0',
+            points:'2',
             head:'0'
         },
         {
@@ -18,8 +18,8 @@ module.exports = {
         },
         {
             name:'吴荣华',
-            points:'0',
-            head:'0'
+            points:'6',
+            head:'1'
         },
         {
             name:'易晓健',
@@ -33,8 +33,8 @@ module.exports = {
         },
         {
             name:'关智梁',
-            points:'0',
-            head:'0'
+            points:'2',
+            head:'1'
         },
         {
             name:'柯晓凯',
@@ -58,7 +58,7 @@ module.exports = {
         },
         {
             name:'何炜华',
-            points:'0',
+            points:'4',
             head:'0'
         },
         {
@@ -68,17 +68,17 @@ module.exports = {
         },
         {
             name:'周子文',
-            points:'0',
-            head:'0'
+            points:'4',
+            head:'3'
         },
         {
             name:'陈育文',
-            points:'0',
-            head:'0'
+            points:'6',
+            head:'1'
         },
         {
             name:'胡慧贤',
-            points:'0',
+            points:'2',
             head:'0'
         },
         {
