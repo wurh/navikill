@@ -23,13 +23,13 @@ module.exports = {
         },
         {
             name:'易晓健',
-            points:'0',
+            points:'6',
             head:'0'
         },
         {
             name:'陈欣欣',
-            points:'0',
-            head:'0'
+            points:'5',
+            head:'5'
         },
         {
             name:'关智梁',
@@ -38,17 +38,17 @@ module.exports = {
         },
         {
             name:'柯晓凯',
-            points:'0',
-            head:'0'
+            points:'5',
+            head:'3'
         },
         {
             name:'谢玄亮',
-            points:'0',
+            points:'2',
             head:'0'
         },
         {
             name:'谢瑛',
-            points:'0',
+            points:'2',
             head:'0'
         },
         {
@@ -63,8 +63,8 @@ module.exports = {
         },
         {
             name:'刘威龙',
-            points:'0',
-            head:'0'
+            points:'5',
+            head:'2'
         },
         {
             name:'周子文',
@@ -82,8 +82,8 @@ module.exports = {
             head:'0'
         },
         {
-            name:'施中柱',
-            points:'0',
+            name:'吴诗伟',
+            points:'8',
             head:'0'
         }
 
